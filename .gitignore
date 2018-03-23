@@ -16,7 +16,7 @@
 
 *.pptx
 
-.ipython_checkpoints
+.ipython_checkpoints/
 
 0-Introduction/
 
