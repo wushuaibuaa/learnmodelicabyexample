@@ -1,0 +1,23 @@
+.idea/
+
+.vscode/
+
+.DS_Store
+
+*.pyc
+
+*.xls
+
+*.key
+
+*.numbers
+
+*.ppt
+
+*.pptx
+
+.ipython_checkpoints
+
+__MACOSX/
+
+__pycache__/  # 忽略 __pycache__/ 目录下的所有文件
