@@ -18,6 +18,8 @@
 
 .ipython_checkpoints
 
+0-Introduction
+
 __MACOSX/
 
 __pycache__/  # 忽略 __pycache__/ 目录下的所有文件
