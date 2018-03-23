@@ -12,6 +12,8 @@
 
 *.numbers
 
+*.mo
+
 *.ppt
 
 *.pptx
