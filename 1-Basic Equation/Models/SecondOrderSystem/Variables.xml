@@ -1,0 +1,16 @@
+<SecondOrderSystem>
+    <__variable__ Name="phi1_init" Type="Real" Id="1" Index="1" Prefixes="905" Start="0.0" Unit="rad" />
+    <__variable__ Name="phi2_init" Type="Real" Id="2" Index="2" Prefixes="905" Start="1.0" Unit="rad" />
+    <__variable__ Name="omega1_init" Type="Real" Id="3" Index="3" Prefixes="905" Start="0.0" Unit="rad/s" />
+    <__variable__ Name="omega2_init" Type="Real" Id="4" Index="4" Prefixes="905" Start="0.0" Unit="rad/s" />
+    <__variable__ Name="J1" Type="Real" Id="5" Index="5" Prefixes="905" Start="0.4" Unit="kg.m2" Description="Moment of inertia for inertia 1" />
+    <__variable__ Name="J2" Type="Real" Id="6" Index="6" Prefixes="905" Start="1.0" Unit="kg.m2" Description="Moment of inertia for inertia 2" />
+    <__variable__ Name="k1" Type="Real" Id="7" Index="7" Prefixes="905" Start="11.0" Unit="N.m/rad" Description="Spring constant for spring 1" />
+    <__variable__ Name="k2" Type="Real" Id="8" Index="8" Prefixes="905" Start="50.0" Unit="N.m/rad" Description="Spring constant for spring 2" />
+    <__variable__ Name="d1" Type="Real" Id="9" Index="9" Prefixes="905" Start="0.2" Unit="N.m.s/rad" Description="Damping for damper 1" />
+    <__variable__ Name="d2" Type="Real" Id="10" Index="10" Prefixes="905" Start="1.0" Unit="N.m.s/rad" Description="Damping for damper 2" />
+    <__variable__ Name="phi1" Type="Real" Id="11" Index="11" Prefixes="4865" Unit="rad" Description="Angle for inertia 1" />
+    <__variable__ Name="phi2" Type="Real" Id="12" Index="12" Prefixes="4865" Unit="rad" Description="Angle for inertia 2" />
+    <__variable__ Name="omega1" Type="Real" Id="13" Index="13" Prefixes="4865" Unit="rad/s" Description="Velocity of inertia 1" />
+    <__variable__ Name="omega2" Type="Real" Id="14" Index="14" Prefixes="4865" Unit="rad/s" Description="Velocity of inertia 2" />
+</SecondOrderSystem>

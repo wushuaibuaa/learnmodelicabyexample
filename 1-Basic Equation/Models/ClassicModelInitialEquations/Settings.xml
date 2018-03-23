@@ -1,0 +1,28 @@
+<Settings>
+    <StartTime>0.0</StartTime>
+    <StopTime>100.0</StopTime>
+    <Integration>
+        <Algorithm>Dassl</Algorithm>
+        <CommunicationStepSize>0.2</CommunicationStepSize>
+        <InitialStepSize>0.2</InitialStepSize>
+        <Tolerance>0.0001</Tolerance>
+    </Integration>
+    <Log>
+        <Enabled>true</Enabled>
+        <Language>zh_cn</Language>
+        <Category>logMessage</Category>
+    </Log>
+    <Options>
+        <SaveResult>true</SaveResult>
+        <SaveRealToDouble>false</SaveRealToDouble>
+        <SaveEventPoint>true</SaveEventPoint>
+    </Options>
+    <RealTime>
+        <AllowStepOverrun>true</AllowStepOverrun>
+        <SlowdownFactor>1.0</SlowdownFactor>
+    </RealTime>
+    <NotifyVariables>
+        <Real ValueReference="7" />
+        <Real ValueReference="8" />
+    </NotifyVariables>
+</Settings>

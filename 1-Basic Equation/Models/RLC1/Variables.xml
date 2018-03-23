@@ -1,0 +1,10 @@
+<RLC1>
+    <__variable__ Name="Vb" Type="Real" Id="1" Index="1" Prefixes="905" Start="24.0" Unit="V" Description="Battery voltage" />
+    <__variable__ Name="L" Type="Real" Id="2" Index="2" Prefixes="905" Start="1.0" Unit="H" />
+    <__variable__ Name="R" Type="Real" Id="3" Index="3" Prefixes="905" Start="100.0" Unit="Ohm" />
+    <__variable__ Name="C" Type="Real" Id="4" Index="4" Prefixes="905" Start="0.001" Unit="F" />
+    <__variable__ Name="V" Type="Real" Id="5" Index="5" Prefixes="4865" Unit="V" />
+    <__variable__ Name="i_L" Type="Real" Id="6" Index="6" Prefixes="4865" Unit="A" />
+    <__variable__ Name="i_R" Type="Real" Id="7" Index="7" Prefixes="769" Unit="A" />
+    <__variable__ Name="i_C" Type="Real" Id="8" Index="8" Prefixes="769" Unit="A" />
+</RLC1>

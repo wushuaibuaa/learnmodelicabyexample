@@ -1,0 +1,10 @@
+This log file was created by MWSolver at Wed Mar 15 09:45:56 2017
+MWSolver started ...
+Simulation started at Time = 0 using integration method DASSL
+Simulation terminated at Time = 100 (StopTime = 100)
+  CPU Time for Simulation:             0.004s
+  Number of Time Events:               0
+  Number of State Events:              0
+  Number of Grid Points:               500
+  Minimum integration stepsize:        0.0002
+  Maximum integration stepsize:        2.55702

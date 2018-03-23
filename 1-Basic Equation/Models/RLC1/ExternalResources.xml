@@ -1,0 +1,9 @@
+<ExternalResources>
+    <BasePaths>
+        <BasePath name="&gt;root&lt;">C:/Users/Mate Book/Documents/MWorks</BasePath>
+    </BasePaths>
+    <LibraryDirectory>
+        <Path>D:/2017works/MandS/1-Basic Equation/Models</Path>
+        <Path>C:/Users/Mate Book/Documents/MWorks</Path>
+    </LibraryDirectory>
+</ExternalResources>

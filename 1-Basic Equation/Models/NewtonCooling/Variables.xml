@@ -1,0 +1,9 @@
+<NewtonCooling>
+    <__variable__ Name="T_inf" Type="Real" Id="1" Index="1" Prefixes="905" Start="298.15" Unit="K" Description="Ambient temperature" />
+    <__variable__ Name="T0" Type="Real" Id="2" Index="2" Prefixes="905" Start="363.15" Unit="kg" Description="Initial temperature" />
+    <__variable__ Name="h" Type="Real" Id="3" Index="3" Prefixes="905" Start="0.7" Unit="W/(m2.K)" Description="Convective cooling coefficient" />
+    <__variable__ Name="A" Type="Real" Id="4" Index="4" Prefixes="905" Start="1.0" Unit="m2" Description="Surface area" />
+    <__variable__ Name="m" Type="Real" Id="5" Index="5" Prefixes="905" Start="0.1" Unit="kg" Description="Mass of thermal capacitance" />
+    <__variable__ Name="c_p" Type="Real" Id="6" Index="6" Prefixes="905" Start="1.2" Unit="J/(K.kg)" Description="Specific heat" />
+    <__variable__ Name="T" Type="Real" Id="7" Index="7" Prefixes="4865" Unit="K" Description="Temperature" />
+</NewtonCooling>
