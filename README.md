@@ -3,7 +3,7 @@
 ## 可以直接通过浏览器在线查看。
 
 ## 下载后离线查看方式
-- 本课件使用Jupyter notebooks编辑，可以通过nbviewer查看，点击链接 [view its contents on nbviewer](http://nbviewer.jupyter.org/github/wushuaibuaa/learnmodelicabyexample/blob/master/index.ipynb).
+- 本课件使用的是Jupyter notebooks编辑，可以通过nbviewer查看，点击链接 [view its contents on nbviewer](http://nbviewer.jupyter.org/github/wushuaibuaa/learnmodelicabyexample/blob/master/index.ipynb).
 
 - 也可以在本地计算机安装Jupyter Notebook环境，可以编辑和查看下载的课件。
 
